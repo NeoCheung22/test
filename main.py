@@ -3,6 +3,3 @@ print("you are a man")
 print("how are you ?")
 
 print("我們是好人")
-print("ajfld")
-
-adfajldfl
